@@ -9,5 +9,5 @@ my_image[my_image<=threshold]=0
 
 cv2.rectangle(my_image,(30,35),(350,410),128,4)
 
-cv2.imshow("",my_image)
+cv2.imshow("chess board",my_image)
 cv2.waitKey()
