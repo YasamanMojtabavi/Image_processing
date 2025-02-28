@@ -1,6 +1,6 @@
 import cv2
 
-image_1=cv2.imread("D:\python\Image_processing\Assignment_(26)/face.jpg")
+image_1=cv2.imread("D:\python\Image_processing\Assignment_(26)\Image/face.jpg")
 image_2=cv2.cvtColor(image_1,cv2.COLOR_BGR2GRAY)
 
 for i,j in zip(range(0,180,1),range(180,0,-1)):
@@ -12,4 +12,4 @@ for i,j in zip(range(0,180,1),range(180,0,-1)):
 
 cv2.imshow("",image_2)
 cv2.waitKey()
-cv2.imwrite("Assignment_(26)/face.jpg",image_2)
+cv2.imwrite("Assignment_(26)/Image/face.jpg",image_2)

@@ -10,4 +10,4 @@ for i in range(0,80,10):
         else:
             my_image_2[i:i+10,j:j+10]=255
             
-cv2.imwrite("Assignment_(26)/chess board.jpg",my_image_2)
+cv2.imwrite("Assignment_(26)/Image/chess board.jpg",my_image_2)

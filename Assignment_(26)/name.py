@@ -18,4 +18,4 @@ for i in range(40,80,10):
 
 cv2.imshow("",my_image)
 cv2.waitKey()
-cv2.imwrite("Assignment_(26)/name.jpg",my_image)
+cv2.imwrite("Assignment_(26)/Image/name.jpg",my_image)
