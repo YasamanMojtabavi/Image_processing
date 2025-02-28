@@ -7,9 +7,11 @@
 2.Invert:This code reads two images from the specified path, reverses the color of each pixel (white to black and vice versa).
 
 Input:
+
 ![1](https://github.com/user-attachments/assets/632ec942-23c8-4b8f-ad44-e0a3f4b45f33)
 
 Output:
+
 ![invert_1](https://github.com/user-attachments/assets/ae329db3-e53a-4d25-9f07-3e6c74b81127)
 
 3.Rotate:This code rotates the image 180 degrees.
