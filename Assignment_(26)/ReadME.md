@@ -32,5 +32,7 @@ Output:
 Technologies Used
 ____________________
 .Python 3
+
 .OpenCV
+
 .NumPy
