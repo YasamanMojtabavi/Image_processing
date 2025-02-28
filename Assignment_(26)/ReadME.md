@@ -27,3 +27,10 @@ Output:
 
 ![face](https://github.com/user-attachments/assets/087c4579-8e00-4562-8f92-2ca701ea9a04)
 
+
+
+Technologies Used
+____________________
+.Python 3
+.OpenCV
+.NumPy
